@@ -1,2 +1,1 @@
-print("Hello")
-print("Alex bye bye")
+print("No need for comments")
